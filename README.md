@@ -23,7 +23,8 @@
 Получить символ x. Вычислить разность между кодом символа x и кодом символа '0'. Присвоить полученное значение переменной result. Вернуть result.
 
 ### Тестирование
-![]()
+![](https://sun9-5.vkuserphoto.ru/s/v1/ig2/Z_H36fIzaK3ghJJDvhE4BL1v5E1pX1jlrGtUWUUSRzeXQujc1YIxwxflriPu4jpku8WxGQnUbswLdPI8YVWMC81r.jpg?quality=95&as=32x3,48x5,72x8,108x11,160x17,240x25,360x38,480x50,540x56,575x60&from=bu&u=DB7yIp23eApTyIzCwd7Y5X_wuhncr42OBRHm7pn59g8&cs=575x0)
+![](https://sun9-34.vkuserphoto.ru/s/v1/ig2/EMbmf2fUTU7MMYkybroUK9vFStt-d-Lf3NmVh7UpgFjo7z5HIZPS2FjXCkHt0mI4uCtPsRCKHv9QDjYadqQ7hGiY.jpg?quality=95&as=32x7,48x10,72x15,108x23,160x33,240x50,360x75,480x100,540x113,580x121&from=bu&u=5VZQGrTXIf0vtKBLGYEzui3Zyb5qCUn8gXUOs_ZIiSQ&cs=580x0)
 
 ## Задача 5
 ### Текст задачи
@@ -35,7 +36,8 @@
 Получить целое число x. Проверить два условия одновременно: число больше 9 и число меньше 100. Если оба условия выполняются — вернуть true, иначе вернуть false.
 
 ### Тестирование
-![]()
+![](https://sun9-3.vkuserphoto.ru/s/v1/ig2/nQVJjO1du0GqRQtfkYQXZX7RiSVhQvLIkAr9GA_S6pOiLUy9FZR5tT9FxcUnxWacEf1Gs-F2PsxauvyEvMyqibkL.jpg?quality=95&as=32x3,48x5,72x7,108x11,160x16,240x24,360x36,480x48,529x53&from=bu&u=Fvpyzwws6QlRRzQ2DTWmwre1p6fp0OlINWNhbYX5Jn8&cs=529x0)
+![](https://sun9-79.vkuserphoto.ru/s/v1/ig2/KO0W7ld1tXSuF_OR3qOHr_SK7XTqkYPhxzyhkmjqmL4DIIuAs6WYj6HIRGQQf13qBcujZmSXsgG9WYToMwRVadqN.jpg?quality=95&as=32x3,48x5,72x7,108x10,160x15,240x23,360x35,480x46,540x52,581x56&from=bu&u=MOQoQaNPV7SRuq6OKjMzcPbbZVNGFnqwRoViKQyCjUY&cs=581x0)
 ## Задача 7
 ### Текст задачи
 Диапазон.
