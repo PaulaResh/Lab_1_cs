@@ -4,27 +4,27 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        //// ЗАДАНИЕ 1
-        //Console.WriteLine("ЗАДАНИЕ 1");
+        // ЗАДАНИЕ 1
+        Console.WriteLine("ЗАДАНИЕ 1");
 
-        ////1
-        //double rez1, x1;
-        //LB1 s1 = new LB1();
-        //Console.Write("Введите дробное число Х: ");
-        //while (!double.TryParse(Console.ReadLine(), out x1))
-        //    Console.Write("Ошибка! Введите корректное дробное число: ");
-        //rez1 = s1.Fraction(x1);
-        //Console.WriteLine("Дробная часть числа Х = " + (decimal)rez1);
+        //1
+        double rez1, x1;
+        LB1 s1 = new LB1();
+        Console.Write("Введите дробное число Х: ");
+        while (!double.TryParse(Console.ReadLine(), out x1))
+            Console.Write("Ошибка! Введите корректное дробное число: ");
+        rez1 = s1.Fraction(x1);
+        Console.WriteLine("Дробная часть числа Х = " + (decimal)rez1);
 
-        ////3
-        //char x1_3;
-        //Console.WriteLine("Введи символ от 0 до 9, чтобы преобразовать его в соотв. число: ");
-        //while (!char.TryParse(Console.ReadLine(), out x1_3))
-        //    Console.Write("Ошибка! Введите корректное целое число: ");
-        //LB1 s1_3 = new LB1();
-        //Console.WriteLine("Итог = " + s1_3.charToNum(x1_3));
+        //3
+        char x1_3;
+        Console.WriteLine("Введи символ от 0 до 9, чтобы преобразовать его в соотв. число: ");
+        while (!char.TryParse(Console.ReadLine(), out x1_3))
+            Console.Write("Ошибка! Введите корректное целое число: ");
+        LB1 s1_3 = new LB1();
+        Console.WriteLine("Итог = " + s1_3.charToNum(x1_3));
 
-        //Console.WriteLine();
+        Console.WriteLine();
         // 5
         int x5;
         Console.Write("Введите целое число Х, чтобы узнать двузначное ли оно: ");
